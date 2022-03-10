@@ -1,7 +1,7 @@
 <header class="main-header">
 	<a href="{{ url('/HRIndex') }}" class="logo">
-	  <span class="logo-mini"><b>HRIS</b></span>
-	  <span class="logo-lg"><b>Human</b> Resources</span>
+	  <span class="logo-mini"><b>EP</b></span>
+	  <span class="logo-lg"><b>EXAM</b> Page</span>
 	</a>
 	
 	<nav class="navbar navbar-static-top">
